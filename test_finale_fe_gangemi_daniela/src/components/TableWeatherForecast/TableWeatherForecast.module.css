@@ -1,0 +1,13 @@
+.tableStyle {
+
+    width: 60rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid #dee2e6;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
