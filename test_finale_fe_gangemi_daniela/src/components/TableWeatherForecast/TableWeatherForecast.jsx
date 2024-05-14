@@ -1,3 +1,4 @@
+import TableWeatherForecastStyle from "./TableWeatherForecast.module.css"
 import { format } from 'date-fns';
 import { it } from 'date-fns/locale';
 
